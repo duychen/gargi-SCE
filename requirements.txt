@@ -1,0 +1,7 @@
+TraceGuard - Requirements
+
+1. Programming: HTML, CSS, JavaScript
+2. External libraries: None
+3. Installation: No installation required
+4. Internet: Not required to run the basic simulation
+5. Browser: Microsoft Edge, Google Chrome, or another modern browser

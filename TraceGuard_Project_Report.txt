@@ -1,0 +1,33 @@
+TRACEGUARD
+CYBERSECURITY AWARENESS PROJECT REPORT
+
+1. INTRODUCTION
+TraceGuard is an educational project designed to demonstrate basic login security and cybersecurity awareness.
+
+2. OBJECTIVE
+The objective is to show how failed login attempts can be monitored and how account lockout can help protect accounts.
+
+3. TECHNOLOGIES USED
+HTML, CSS, and JavaScript.
+
+4. PROJECT FEATURES
+- Simple cybersecurity dashboard
+- Simulated login attempts
+- Account lockout after three failed attempts
+- Privacy notice
+- User-friendly interface
+
+5. WORKING
+The project runs locally in a web browser. It demonstrates login security through a simulation and displays a lockout after three failed attempts.
+
+6. SAFETY AND PRIVACY
+TraceGuard is an educational demonstration. It does not require real passwords or confidential information.
+
+7. LIMITATIONS
+This project is a basic simulation and is not a real authentication system. It does not replace professional cybersecurity software.
+
+8. CONCLUSION
+TraceGuard helps demonstrate the importance of login protection, account security, and privacy awareness.
+
+PROJECT TYPE
+Student Cybersecurity Awareness Project
